@@ -13,7 +13,6 @@ The home page, publication catalogue and teaching page include selected overlapp
 - CV supplied by Irina Vilciu, 2026.
 - Publication list supplied by Irina Vilciu, October 2026.
 - Portrait supplied by Irina Vilciu.
-- Design adapted to the requested reference: https://serigc.github.io/academic-website/index.html
 - ORCID: https://orcid.org/0000-0003-2336-9348
 
 The supplied Word documents are downloadable at their original content. Bibliographic identifiers are transcribed from the publication list. Current journal indexing and impact factors have not been independently audited.
